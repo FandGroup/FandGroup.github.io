@@ -7,18 +7,18 @@
 
 ##### 互联网社区
 
-*   人人都是产品经理:[https://www.woshipm.com)
-*   32Kr:[https://36kr.com)
-*   PMCAFF:[https://www.pmcaff.com)
-*   鸟哥笔记:[https://www.niaogebiji.com)
-*   雷锋网:[https://www.leiphone.com)
-*   产品壹佰:[http://www.chanpin100.com)
-*   爱运营:[https://www.iyunying.org)
+*   人人都是产品经理:https://www.woshipm.com
+*   32Kr:https://36kr.com
+*   PMCAFF:https://www.pmcaff.com
+*   鸟哥笔记:https://www.niaogebiji.com
+*   雷锋网:https://www.leiphone.com
+*   产品壹佰:http://www.chanpin100.com
+*   爱运营:https://www.iyunying.org
 
 ##### 影视资源
 
-*   低端影视:[www.ddys.tv)
-*   ACG动漫:[http://www.acgvod.com)
+*   低端影视:www.ddys.tv
+*   ACG动漫:http://www.acgvod.com
 
 
 
@@ -27,8 +27,8 @@
 
 ##### 语言包
 
-*   Telegram 中文汉化包-简体:[https://t.me/setlanguage/zh-hans-beta)
-*   Telegram 中文汉化包-繁体:[https://t.me/setlanguage/zh-hant-beta)
+*   Telegram 中文汉化包-简体:https://t.me/setlanguage/zh-hans-beta
+*   Telegram 中文汉化包-繁体:https://t.me/setlanguage/zh-hant-beta
 
 ##### 苹果客户端限制成人内容
 
@@ -47,7 +47,7 @@ iOS系统解锁成人内容教程：
 ###### 科学上网
 
 
-*   Project V （使用与反馈）:[https://t.me/projectv2ray)
+*   Project V （使用与反馈）:https://t.me/projectv2ray
 *   LanceX:[https://t.me/lancex_app](https://t.me/lancex_app)
 *   DivineEngine Chat:[https://t.me/joinchat/BlP48kmUGY-iR41Iq11-3w](https://t.me/joinchat/BlP48kmUGY-iR41Iq11-3w)
 *   Quantumult X、Surge、Loon 的脚本讨论:[https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w](https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w)
