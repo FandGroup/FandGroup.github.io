@@ -1,10 +1,10 @@
 # FandGroup.github.io
 
 
-### 群组 Group[]
+### 群组 Group
 
 
-###### 科学上网[]
+###### 科学上网
 
 *   搬瓦工 (BandwagonHost):[https://t.me/BandwagonHostUsers](https://t.me/BandwagonHostUsers)
 *   机场交流群:[https://t.me/rixCloud_User](https://t.me/rixCloud_User)
