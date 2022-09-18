@@ -7,18 +7,18 @@
 
 ##### 互联网社区
 
-*   人人都是产品经理:[https://www.woshipm.com/)
-*   32Kr:[https://36kr.com/)
-*   PMCAFF:[https://www.pmcaff.com/)
-*   鸟哥笔记:[https://www.niaogebiji.com/)
-*   雷锋网:[https://www.leiphone.com/)
-*   产品壹佰:[http://www.chanpin100.com/)
-*   爱运营:[https://www.iyunying.org/)
+*   人人都是产品经理:[https://www.woshipm.com)
+*   32Kr:[https://36kr.com)
+*   PMCAFF:[https://www.pmcaff.com)
+*   鸟哥笔记:[https://www.niaogebiji.com)
+*   雷锋网:[https://www.leiphone.com)
+*   产品壹佰:[http://www.chanpin100.com)
+*   爱运营:[https://www.iyunying.org)
 
 ##### 影视资源
 
-*   低端影视:[www.ddys.tv/)
-*   ACG动漫:[http://www.acgvod.com/)
+*   低端影视:[www.ddys.tv)
+*   ACG动漫:[http://www.acgvod.com)
 
 
 
