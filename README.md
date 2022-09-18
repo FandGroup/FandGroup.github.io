@@ -34,7 +34,7 @@
 
 由于苹果的限制，在iOS和macOS 系统的 Telegram 客户端直接查看成人相关内容。
 iOS系统解锁成人内容教程：
-✔️方法一：先打开telegram 网页端 https://web.telegram.org/，在设置中找到 >>Show Sensitive Content<< ，默认是关闭的，点击开启，然后再去iOS客户端就可以解锁成人内容了。
+✔️方法一：先打开telegram 网页端 https://web.telegram.org/， 在设置中找到 >>Show Sensitive Content<< ，默认是关闭的，点击开启，然后再去iOS客户端就可以解锁成人内容了。
 ✔️方法二：在PC端telegram设置中开启，点开设置 Setting>>Privacy and Security>>Sensitive Content，勾选 Disable filtering 。需要注意的是，如果使用的是macOS，App Store 中下载的版本可能没有相关设置，需要在telegram官网下载的版本才可以。
 如果开启后在iOS客户端上依旧无法开启成人内容，重启客户端即可。
 安卓手机没有此限制。
