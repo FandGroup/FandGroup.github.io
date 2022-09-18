@@ -1,18 +1,53 @@
 # FandGroup.github.io
 
 
-### 群组 Group
+
+### 网站 Website
+
+
+##### 互联网社区
+
+*   人人都是产品经理:[https://www.woshipm.com/)
+*   32Kr:[https://36kr.com/)
+*   PMCAFF:[https://www.pmcaff.com/)
+*   鸟哥笔记:[https://www.niaogebiji.com/)
+*   雷锋网:[https://www.leiphone.com/)
+*   产品壹佰:[http://www.chanpin100.com/)
+*   爱运营:[https://www.iyunying.org/)
+
+##### 影视资源
+
+*   低端影视:[www.ddys.tv/)
+*   ACG动漫:[http://www.acgvod.com/)
+
+
+
+### Telegram
+
+
+##### 语言包
+
+*   Telegram 中文汉化包-简体:[https://t.me/setlanguage/zh-hans-beta)
+*   Telegram 中文汉化包-繁体:[https://t.me/setlanguage/zh-hant-beta)
+
+##### 苹果客户端限制成人内容
+
+由于苹果的限制，在iOS和macOS 系统的 Telegram 客户端直接查看成人相关内容。
+iOS系统解锁成人内容教程：
+✔️方法一：先打开telegram 网页端 https://web.telegram.org/，在设置中找到 >>Show Sensitive Content<< ，默认是关闭的，点击开启，然后再去iOS客户端就可以解锁成人内容了。
+✔️方法二：在PC端telegram设置中开启，点开设置 Setting>>Privacy and Security>>Sensitive Content，勾选 Disable filtering 。需要注意的是，如果使用的是macOS，App Store 中下载的版本可能没有相关设置，需要在telegram官网下载的版本才可以。
+如果开启后在iOS客户端上依旧无法开启成人内容，重启客户端即可。
+安卓手机没有此限制。
+
+
+
+### Telegram 群组 Group
 
 
 ###### 科学上网
 
-*   搬瓦工 (BandwagonHost):[https://t.me/BandwagonHostUsers](https://t.me/BandwagonHostUsers)
-*   机场交流群:[https://t.me/rixCloud_User](https://t.me/rixCloud_User)
-*   Surge 交流:[https://t.me/loveapps](https://t.me/loveapps)
-*   Surge Pro:[https://t.me/SurgePro](https://t.me/SurgePro)
-*   Shadowrocket:[https://t.me/ShadowrocketApp](https://t.me/ShadowrocketApp)
-*   Loon:[https://t.me/Loon0x00](https://t.me/Loon0x00)
-*   Choc:[https://t.me/choc_tg](https://t.me/choc_tg)
+
+*   Project V （使用与反馈）:[https://t.me/projectv2ray)
 *   LanceX:[https://t.me/lancex_app](https://t.me/lancex_app)
 *   DivineEngine Chat:[https://t.me/joinchat/BlP48kmUGY-iR41Iq11-3w](https://t.me/joinchat/BlP48kmUGY-iR41Iq11-3w)
 *   Quantumult X、Surge、Loon 的脚本讨论:[https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w](https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w)
