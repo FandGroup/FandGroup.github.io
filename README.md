@@ -19,7 +19,7 @@
 
 ##### 影视资源
 
-*   低端影视:[www.ddys.tv](www.ddys.tv)
+*   低端影视:[https://ddys.tv/](https://ddys.tv/)
 *   ACG动漫:[http://www.acgvod.com](http://www.acgvod.com)
 
 
