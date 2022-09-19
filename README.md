@@ -3,7 +3,7 @@
 
 ### 带你发现不一样的互联网
 
-  [![HitCount](https://hits.dwyl.com/FandGroup/FandGroup / FandGroupgithubio.svg?style=flat-square)](http://hits.dwyl.com/FandGroup/FandGroup / FandGroupgithubio)
+  [![HitCount](https://hits.dwyl.com/FandGroup/FandGroupgithubio.svg?style=flat-square)](http://hits.dwyl.com/FandGroup/FandGroupgithubio)
 
 ### 网站 Website
 
