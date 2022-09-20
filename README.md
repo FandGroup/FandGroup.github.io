@@ -38,7 +38,7 @@
 
 ###### 科学上网
 
-*   Project V:https://t.me/projectv2ray
+*   Project V:[https://t.me/projectv2ray](https://t.me/projectv2ray)
 *   Netch Channel:[https://t.me/netch_channel](https://t.me/netch_channel)
 *   AnXray:[https://t.me/AnXray](https://t.me/AnXray)
 *   Fndroid的日常:[https://t.me/fndroid_news](https://t.me/fndroid_news)
