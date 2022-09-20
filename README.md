@@ -10,48 +10,58 @@
   [![HitCount](https://hits.dwyl.com/FandGroup/FandGroupgithubio.svg?style=flat-square)](http://hits.dwyl.com/FandGroup/FandGroupgithubio)
 
 
-## My Tech Stack
+##### 推广
+
+*   广告位招商，有意@ craftchai
 
 <table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-	      <span><strong>科学上网FreeVPN</strong></span><br><br><br>
-	      [<img height="100px" alt="craftchai | vpn" src="https://user-images.githubusercontent.com/29389038/191163904-6265bdfb-1234-431f-bbdf-504ba534f3d1.jpg">][vpn]
-      </td>
-      <td width="25%" align="center">
-	      <span><strong>FreeVPN</strong></span><br><br><br>
-        [<img height="100px" alt="craftchai | FreeVPN" width="22px" src="[https://user-images.githubusercontent.com/113883304/191068392-47e44d18-43d3-46b9-82e3-d6adfcce8ebb.svg](https://user-images.githubusercontent.com/29389038/191163904-6265bdfb-1234-431f-bbdf-504ba534f3d1.jpg)" />][FreeVPN]
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU">
-      </td>
+  <tr>
+    <td align="center">
+      <a href="https://curl.qcloud.com/43JC4fAE">
+        <img src="https://upload-dianshi-1255598498.file.myqcloud.com/345x200-08ea7ec01febe3c7f600608e973fc44f43efec34.jpg" width="345px;" alt="1"/>
+      </a>
+      <br />
+      <a href="https://curl.qcloud.com/43JC4fAE">优惠套餐一</a>
+    </td>
+    <td align="center">
+      <a href="https://curl.qcloud.com/uis5UuWB">
+        <img src="https://upload-dianshi-1255598498.file.myqcloud.com/345-200-788d0ee3eed06e913b85ddb6b178f8b9960c4684.jpg" width="345px;" alt="2"/>
+      </a>
+      <br />
+      <a href="https://curl.qcloud.com/uis5UuWB">优惠套餐二</a>
+    </td>
+    <td align="center">
+      <a href="https://curl.qcloud.com/XOLUPdVy">
+        <img src="https://upload-dianshi-1255598498.file.myqcloud.com/%E5%85%A8%E7%90%83%E8%B4%AD_345%20200-dd004d4a4191fcbabcabea4fcd96f67d1e069f58.jpg" width="345px;" alt="3"/>
+      </a>
+      <br />
+      <a href="https://curl.qcloud.com/XOLUPdVy">优惠套餐三</a>
+    </td>
      </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>CSS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Html 5</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Vs Code</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-
-  </tbody>
+  <tr>
+    <td align="center">
+      <a href="ttps://activity.huaweicloud.com/618_promotion/index.html?fromacct=b42563bb-7cf2-4b3c-83c9-b37a6e6e63d3&utm_source=aHcwMjAyNTMwMTQ==&utm_medium=cps&utm_campaign=201905">
+        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/huaweiyun.jpg" width="345px;" alt="1"/>
+      </a>
+      <br />
+      <a href="https://curl.qcloud.com/43JC4fAE">优惠套餐一</a>
+    </td>
+    <td align="center">
+      <a href="https://curl.qcloud.com/XOLUPdVy">
+        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/20220616103138.png" width="345px;" alt="3"/>
+      </a>
+      <br />
+      <a href="https://curl.qcloud.com/XOLUPdVy">免费云服务器</a>
+    </td>
+    <td align="center">
+      <a href="https://www.tsyvps.com/aff/WZLKZCQY">
+        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/tsyvps.png" width="345px;" alt="2"/>
+      </a>
+      <br />
+      <a href="https://curl.qcloud.com/uis5UuWB">香港云服务器25/月</a>
+    </td>
+    
+     
 </table>
 
 
