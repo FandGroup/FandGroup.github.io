@@ -21,7 +21,7 @@
       </td>
       <td width="25%" align="center">
 	      <span><strong>FreeVPN</strong></span><br><br><br>
-        [<img align="left" alt="craftchai | FreeVPN" width="22px" src="[https://user-images.githubusercontent.com/113883304/191068392-47e44d18-43d3-46b9-82e3-d6adfcce8ebb.svg](https://user-images.githubusercontent.com/29389038/191163904-6265bdfb-1234-431f-bbdf-504ba534f3d1.jpg)" />][FreeVPN]
+        [<img height="100px" alt="craftchai | FreeVPN" width="22px" src="[https://user-images.githubusercontent.com/113883304/191068392-47e44d18-43d3-46b9-82e3-d6adfcce8ebb.svg](https://user-images.githubusercontent.com/29389038/191163904-6265bdfb-1234-431f-bbdf-504ba534f3d1.jpg)" />][FreeVPN]
       </td>
       <td width="25%" align="center">
         <span><strong>Java</strong></span><br><br><br>
