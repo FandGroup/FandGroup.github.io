@@ -22,7 +22,7 @@
         <img src="https://user-images.githubusercontent.com/29389038/191163904-6265bdfb-1234-431f-bbdf-504ba534f3d1.jpg" width="345px;" alt="1"/>
       </a>
       <br />
-      <a href="https://t.me/freev2rayssr">科学上网FreeVPN</a>
+      <a href="https://t.me/freev2rayssr">科学上网FreeVPN(TG频道）</a>
     </td>
     <td align="center">
       <a href="https://curl.qcloud.com/uis5UuWB">
