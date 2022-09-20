@@ -71,13 +71,13 @@
 </table>     
 
 
-### Telegram群组导航页
+### Telegram Group 群组导航页
 
-<b><a href="https://fandgroup.github.io/#%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91">科学上网</a> / <a href="https://fandgroup.github.io/#%E8%BD%AF%E4%BB%B6">软件</a> / <a href="https://fandgroup.github.io/#%E7%A4%BE%E7%BE%A4">社群</a> / <a href="https://fandgroup.github.io/#%E6%92%AD%E5%AE%A2">博客</a> / <a href="https://fandgroup.github.io/#18%E7%A6%81%E6%AD%A2%E5%85%A5%E5%86%85">18禁止入内</a> / <a href="https://fandgroup.github.io/#%E5%9C%B0%E5%8C%BA%E7%BE%A4">地区群</a></b>
+<b><a href="https://fandgroup.github.io/#telegram-1">科学上网</a> / <a href="https://fandgroup.github.io/#%E8%BD%AF%E4%BB%B6">软件</a> / <a href="https://fandgroup.github.io/#%E7%A4%BE%E7%BE%A4">社群</a> / <a href="https://fandgroup.github.io/#%E6%92%AD%E5%AE%A2">播客</a> / <a href="https://fandgroup.github.io/#18%E7%A6%81%E6%AD%A2%E5%85%A5%E5%86%85">18禁止入内</a> / <a href="https://fandgroup.github.io/#%E5%9C%B0%E5%8C%BA%E7%BE%A4">地区群</a></b>
 
-### Telegram频道导航页
+### Telegram Channel 频道导航页
 
-<b><a href="https://fandgroup.github.io/#%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91">科学上网</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://www.brennanbrown.ca/project">Projects</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://www.brennanbrown.ca/project">Projects</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a>  </b>
+<b><a href="https://fandgroup.github.io/#%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91">Telegram</a> / <a href="https://fandgroup.github.io/#%E8%BD%AF%E4%BB%B6-1">软件</a> / <a href="https://fandgroup.github.io/#%E5%AA%92%E4%BD%93">媒体</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://www.brennanbrown.ca/project">Projects</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a>  </b>
 
 
 ### 网站 Website
