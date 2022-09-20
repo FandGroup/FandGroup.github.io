@@ -17,7 +17,7 @@
     <tr valign="top">
       <td width="25%" align="center">
 	      <span><strong>科学上网FreeVPN</strong></span><br><br><br>
-        img height="100px" src="https://user-images.githubusercontent.com/29389038/191163904-6265bdfb-1234-431f-bbdf-504ba534f3d1.jpg">
+        <img height="100px" src="https://user-images.githubusercontent.com/29389038/191163904-6265bdfb-1234-431f-bbdf-504ba534f3d1.jpg">
       </td>
       <td width="25%" align="center">
 	      <span><strong>AWS</strong></span><br><br><br>
