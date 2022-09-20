@@ -1,5 +1,6 @@
 # FandGroup.github.io
 
+  [![HitCount](http://hits.dwyl.com/craftchai/craftchai/craftchaigithubio)https://user-images.githubusercontent.com/29389038/191160666-a3f139c0-5fc4-4fd2-8873-30b41f8a37f2.jpg)]
 
 ### 带你发现不一样的互联网
 
