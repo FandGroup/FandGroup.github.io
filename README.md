@@ -25,11 +25,11 @@
       <a href="https://t.me/freev2rayssr">科学上网FreeVPN(TG频道）</a>
     </td>
     <td align="center">
-      <a href="https://curl.qcloud.com/uis5UuWB">
-        <img src="https://upload-dianshi-1255598498.file.myqcloud.com/345-200-788d0ee3eed06e913b85ddb6b178f8b9960c4684.jpg" width="345px;" alt="2"/>
+      <a href="https://ddys.tv/">
+        <img src="https://user-images.githubusercontent.com/29389038/191169338-8572a005-575a-41e7-b464-46a655189247.png" width="345px;" alt="2"/>
       </a>
       <br />
-      <a href="https://curl.qcloud.com/uis5UuWB">优惠套餐二</a>
+      <a href="https://ddys.tv/">低端影视在线点观看（web网站）</a>
     </td>
     <td align="center">
       <a href="https://curl.qcloud.com/XOLUPdVy">
