@@ -9,7 +9,62 @@
 
   [![HitCount](https://hits.dwyl.com/FandGroup/FandGroupgithubio.svg?style=flat-square)](http://hits.dwyl.com/FandGroup/FandGroupgithubio)
 
+##### 推荐
 
+
+*   推荐页面
+
+<table>
+  <tbody>
+    <tr valign="top">
+    <td align="center">
+      <a href="https://t.me/freev2rayssr">
+        <img src="https://user-images.githubusercontent.com/29389038/191163904-6265bdfb-1234-431f-bbdf-504ba534f3d1.jpg" width="345px;" alt="1"/>
+      </a>
+      <br />
+      <a href="https://t.me/freev2rayssr">科学上网FreeVPN</a>
+    </td>
+    <td align="center">
+      <a href="https://curl.qcloud.com/uis5UuWB">
+        <img src="https://upload-dianshi-1255598498.file.myqcloud.com/345-200-788d0ee3eed06e913b85ddb6b178f8b9960c4684.jpg" width="345px;" alt="2"/>
+      </a>
+      <br />
+      <a href="https://curl.qcloud.com/uis5UuWB">优惠套餐二</a>
+    </td>
+    <td align="center">
+      <a href="https://curl.qcloud.com/XOLUPdVy">
+        <img src="https://upload-dianshi-1255598498.file.myqcloud.com/%E5%85%A8%E7%90%83%E8%B4%AD_345%20200-dd004d4a4191fcbabcabea4fcd96f67d1e069f58.jpg" width="345px;" alt="3"/>
+      </a>
+      <br />
+      <a href="https://curl.qcloud.com/XOLUPdVy">优惠套餐三</a>
+    </td>
+     </tr>
+  <tr>
+    <td align="center">
+      <a href="ttps://activity.huaweicloud.com/618_promotion/index.html?fromacct=b42563bb-7cf2-4b3c-83c9-b37a6e6e63d3&utm_source=aHcwMjAyNTMwMTQ==&utm_medium=cps&utm_campaign=201905">
+        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/huaweiyun.jpg" width="345px;" alt="1"/>
+      </a>
+      <br />
+      <a href="https://curl.qcloud.com/43JC4fAE">优惠套餐一</a>
+    </td>
+    <td align="center">
+      <a href="https://curl.qcloud.com/XOLUPdVy">
+        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/20220616103138.png" width="345px;" alt="3"/>
+      </a>
+      <br />
+      <a href="https://curl.qcloud.com/XOLUPdVy">免费云服务器</a>
+    </td>
+    <td align="center">
+      <a href="https://www.tsyvps.com/aff/WZLKZCQY">
+        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/tsyvps.png" width="345px;" alt="2"/>
+      </a>
+      <br />
+      <a href="https://curl.qcloud.com/uis5UuWB">香港云服务器25/月</a>
+      </td>
+    </tr>
+
+  </tbody>
+</table>     
 
 
 ### 网站 Website
