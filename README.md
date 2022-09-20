@@ -1116,6 +1116,18 @@
 *   二手🐴:[https://t.me/SecHorse](https://t.me/SecHorse)
 *   用爱发电俱乐部:[https://t.me/NotionFans](https://t.me/NotionFans)
 
+
+###### 18禁止入内
+
+*   AV:[https://t.me/avmayaxx](https://t.me/avmayaxx)
+*   ASMR:[https://t.me/asmrhometo](https://t.me/asmrhometo)
+*   丝袜诱惑:[https://t.me/freesiwa](https://t.me/freesiwa)
+*   国产资源:[t.me/freeguochan](https://t.me/freeguochan)
+*   H动漫:[t.me/freeguochan](https://t.me/freeguochan)
+*   主播:[https://t.me/freetiaowu](https://t.me/freetiaowu)
+*   COS制服诱惑:[https://t.me/freecoses](https://t.me/freecoses)
+
+
 ###### 其他
 
 *   频道 / 群组 / 机器人分享:[https://t.me/hao123f](https://t.me/hao123f)
