@@ -10,18 +10,18 @@
   [![HitCount](https://hits.dwyl.com/FandGroup/FandGroupgithubio.svg?style=flat-square)](http://hits.dwyl.com/FandGroup/FandGroupgithubio)
 
 
-##### 推广
+##### 推荐
 
 *   广告位招商，有意@ craftchai
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://curl.qcloud.com/43JC4fAE">
-        <img src="https://upload-dianshi-1255598498.file.myqcloud.com/345x200-08ea7ec01febe3c7f600608e973fc44f43efec34.jpg" width="345px;" alt="1"/>
+      <a href="https://t.me/freev2rayssr">
+        <img src="https://user-images.githubusercontent.com/29389038/191163904-6265bdfb-1234-431f-bbdf-504ba534f3d1.jpg" width="345px;" alt="1"/>
       </a>
       <br />
-      <a href="https://curl.qcloud.com/43JC4fAE">优惠套餐一</a>
+      <a href="https://t.me/freev2rayssr">科学上网FreeVPN</a>
     </td>
     <td align="center">
       <a href="https://curl.qcloud.com/uis5UuWB">
