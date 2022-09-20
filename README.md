@@ -32,11 +32,11 @@
       <a href="https://ddys.tv/">低端影视在线点观看（web网站）</a>
     </td>
     <td align="center">
-      <a href="https://fandgroup.github.io/">
-        <img src="https://user-images.githubusercontent.com/29389038/191171952-71abe57a-2184-4072-8eec-e1e2b64bf159.jpg" width="345px;" alt="3"/>
+      <a href="https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=2ephn7wy">
+        <img src="https://user-images.githubusercontent.com/29389038/191176396-cf6cb6c5-644e-47fb-b37a-454f5785e08c.jpg" width="345px;" alt="3"/>
       </a>
       <br />
-      <a href="https://fandgroup.github.io/">广告位</a>
+      <a href="https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=2ephn7wy">阿里云服务器（活动）</a>
     </td>
      </tr>
   <tr>
