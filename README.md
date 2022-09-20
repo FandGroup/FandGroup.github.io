@@ -17,7 +17,7 @@
     <tr valign="top">
       <td width="25%" align="center">
 	      <span><strong>科学上网FreeVPN</strong></span><br><br><br>
-        <[img height="100px" src="https://user-images.githubusercontent.com/29389038/191163904-6265bdfb-1234-431f-bbdf-504ba534f3d1.jpg"](t.me/freev2rayssr)>
+        [<img height="100px" src="https://user-images.githubusercontent.com/29389038/191163904-6265bdfb-1234-431f-bbdf-504ba534f3d1.jpg">][vpn]
       </td>
       <td width="25%" align="center">
 	      <span><strong>AWS</strong></span><br><br><br>
@@ -1212,3 +1212,4 @@
 *   如果开启后在iOS客户端上依旧无法开启成人内容，重启客户端即可。
 *   安卓手机没有此限制。
 
+[vpn]:t.me/freev2rayssr
