@@ -14,7 +14,7 @@
 
 *   推荐页面
 
-<table>
+  <table>
   <tr>
     <td align="center">
       <a href="https://t.me/freev2rayssr">
@@ -62,7 +62,7 @@
     </td>
     
      
-</table>
+  </table>
 
 
 ### 网站 Website
