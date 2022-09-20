@@ -12,7 +12,7 @@
 
 ##### 推荐
 
-*   广告位招商，有意@ craftchai
+*   推荐页面
 
 <table>
   <tr>
@@ -1222,5 +1222,4 @@
 *   如果开启后在iOS客户端上依旧无法开启成人内容，重启客户端即可。
 *   安卓手机没有此限制。
 
-[vpn]:t.me/freev2rayssr
-[FreeVPN]:https://t.me/freev2rayssr
+
