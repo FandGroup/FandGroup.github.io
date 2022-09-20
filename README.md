@@ -71,6 +71,8 @@
 </table>     
 
 
+### 导航页分类
+
 <b><a href="https://fandgroup.github.io/#%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91">科学上网</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://www.brennanbrown.ca/project">Projects</a></b>
 
 ### 网站 Website
