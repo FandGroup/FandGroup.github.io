@@ -26,40 +26,44 @@
     </td>
     <td align="center">
       <a href="https://ddys.tv/">
-        <img src="https://user-images.githubusercontent.com/29389038/191169338-8572a005-575a-41e7-b464-46a655189247.png" width="345px;" alt="2"/>
+        <img src="https://user-images.githubusercontent.com/29389038/191171877-8e20f026-d1d7-4963-af79-b8881d5613cc.jpg" width="345px;" alt="2"/>
       </a>
       <br />
       <a href="https://ddys.tv/">低端影视在线点观看（web网站）</a>
     </td>
     <td align="center">
-      <a href="https://curl.qcloud.com/XOLUPdVy">
-        <img src="https://upload-dianshi-1255598498.file.myqcloud.com/%E5%85%A8%E7%90%83%E8%B4%AD_345%20200-dd004d4a4191fcbabcabea4fcd96f67d1e069f58.jpg" width="345px;" alt="3"/>
+      <a href="https://fandgroup.github.io/">
+        <img src="https://user-images.githubusercontent.com/29389038/191171952-71abe57a-2184-4072-8eec-e1e2b64bf159.jpg" width="345px;" alt="3"/>
       </a>
       <br />
-      <a href="https://curl.qcloud.com/XOLUPdVy">优惠套餐三</a>
+      <a href="https://fandgroup.github.io/">广告位</a>
     </td>
      </tr>
   <tr>
     <td align="center">
-      <a href="ttps://activity.huaweicloud.com/618_promotion/index.html?fromacct=b42563bb-7cf2-4b3c-83c9-b37a6e6e63d3&utm_source=aHcwMjAyNTMwMTQ==&utm_medium=cps&utm_campaign=201905">
-        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/huaweiyun.jpg" width="345px;" alt="1"/>
+      <a href="https://user-images.githubusercontent.com/29389038/191171952-71abe57a-2184-4072-8eec-e1e2b64bf159.jpg
+">
+        <img src="https://user-images.githubusercontent.com/29389038/191171952-71abe57a-2184-4072-8eec-e1e2b64bf159.jpg
+" width="345px;" alt="1"/>
       </a>
       <br />
-      <a href="https://curl.qcloud.com/43JC4fAE">优惠套餐一</a>
+      <a href="https://fandgroup.github.io/">广告位</a>
     </td>
     <td align="center">
-      <a href="https://curl.qcloud.com/XOLUPdVy">
-        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/20220616103138.png" width="345px;" alt="3"/>
+      <a href="https://fandgroup.github.io/">
+        <img src="https://user-images.githubusercontent.com/29389038/191171952-71abe57a-2184-4072-8eec-e1e2b64bf159.jpg
+" width="345px;" alt="3"/>
       </a>
       <br />
-      <a href="https://curl.qcloud.com/XOLUPdVy">免费云服务器</a>
+      <a href="https://fandgroup.github.io/">广告位</a>
     </td>
     <td align="center">
-      <a href="https://www.tsyvps.com/aff/WZLKZCQY">
-        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/tsyvps.png" width="345px;" alt="2"/>
+      <a href="https://fandgroup.github.io/">
+        <img src="https://user-images.githubusercontent.com/29389038/191171952-71abe57a-2184-4072-8eec-e1e2b64bf159.jpg
+" width="345px;" alt="2"/>
       </a>
       <br />
-      <a href="https://curl.qcloud.com/uis5UuWB">香港云服务器25/月</a>
+      <a href="https://fandgroup.github.io/">广告位</a>
       </td>
     </tr>
 
